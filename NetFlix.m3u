@@ -1,0 +1,21 @@
+#EXTM3U
+
+# Live Channels NetFlix
+#EXTINF:-1,NetFlix  Cinema 1
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68197.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Cinema 2
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68198.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Comedy
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68201.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Clasic
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68199.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Clasic 2
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68200.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Action
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68196.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Zaman
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68203.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Zaman 2
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68204.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,NetFlix  Horror
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68202.ts?play_token=2a04a6dc2df72cc0

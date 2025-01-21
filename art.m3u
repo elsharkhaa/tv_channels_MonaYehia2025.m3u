@@ -1,0 +1,23 @@
+#EXTM3U
+
+# Live Channels ART
+#EXTINF:-1,ART_Aflam.1
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/151.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART.Aflam.2
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/152.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART_Cinema
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/153.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART_Hekayat
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/154.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART_Hekayat2
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/155.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART.Aflam.1
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68080.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART.Aflam.2
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68081.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART.Cinema
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68082.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART.Hekayat
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68083.ts?play_token=2a04a6dc2df72cc0
+#EXTINF:-1,ART.Hekayat2
+https://oscartvland.tv:443/live/MonaYehia2024/Aboadam200BBA/68084.ts?play_token=2a04a6dc2df72cc0
